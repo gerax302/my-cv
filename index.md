@@ -1,10 +1,25 @@
-## Welcome to GitHub Pages
+## Gerardo's portfolio & CV 
 
 You can use the [editor on GitHub](https://github.com/gerax302/my-cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Job summary
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+### Education
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+### Certifications
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+![Portworx](https://portworx.com/wp-content/uploads/2020/03/portworx_training_pcabadge.png)
+![GCP PCA](https://arki1.com/wp-content/uploads/2020/02/badge-gcp-professional-cloud-architect.png)
+
+### Skills 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -13,7 +28,6 @@ Syntax highlighted code block
 
 # Header 1
 ## Header 2
-### Header 3
 
 - Bulleted
 - List
@@ -25,6 +39,13 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+
+---
+## Social
+- [Linkedin](https://www.linkedin.com/in/gerax302/)
+- [Github](https://github.com/gerax302)
+- [Twitter](https://twitter.com/Gera_Twitt)
+---
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
