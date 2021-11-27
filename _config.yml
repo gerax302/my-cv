@@ -12,7 +12,7 @@ email: gerax302@gmail.com
 website: gerardorh.com
 
 # Dark Mode (true/false/never)
-darkmode: true
+darkmode: false
 
 # Social links
 twitter_username: gera_twitt
@@ -101,11 +101,14 @@ content:
       - layout: left
         title: Terraform 
         level: 70
-        area: Infrastructure as Code
         quote: >
-          Used for IAC
-        description: | # this will include new lines to allow paragraphs
-          Extra description about this tool- 
+          Infrastructure as Code
+
+      - layout: left
+        title: Kubernetes 
+        level: 70
+        quote: >
+          Microservices / DevOps 
 
 
 
@@ -113,7 +116,7 @@ content:
     layout: text # Type of content section (list/text)
     content: | 
       Recent badges:
-      - ![](https://m.media-amazon.com/images/I/41SbPN-KcIL._CR0,0,400,400_UX175.jpg)
+      - ![](https://miro.medium.com/max/800/1*Nm6MkL2zbk4IN-lfZT8A8A.png)
       - ![](https://portworx.com/wp-content/uploads/2020/03/portworx_training_pca.png)
 
 
@@ -144,7 +147,7 @@ content:
       - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
       Look at this cool image  
-      ![Duck](/my-cv/images/duck.jpg "Duck")
+      ![Duck](/images/duck.jpg "Duck")
 
 # Footer
 footer_show_references: true
