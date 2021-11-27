@@ -12,7 +12,7 @@ email: gerax302@gmail.com
 website: gerardorh.com
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: never
 
 # Social links
 twitter_username: gera_twitt
@@ -114,10 +114,11 @@ content:
 
   - title: Certifications / Awards  # Title for the section
     layout: text # Type of content section (list/text)
-    content: | 
-      Recent badges:
-      - ![](https://miro.medium.com/max/800/1*Nm6MkL2zbk4IN-lfZT8A8A.png)
-      - ![](https://portworx.com/wp-content/uploads/2020/03/portworx_training_pca.png)
+
+    content: |
+      ## Recent badges:
+      ![](https://miro.medium.com/max/800/1*Nm6MkL2zbk4IN-lfZT8A8A.png)
+      ![](https://portworx.com/wp-content/uploads/2020/03/portworx_training_pca.png)
 
 
 
