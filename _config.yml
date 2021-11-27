@@ -99,16 +99,28 @@ content:
     layout: list # Type of content section (list/text)
     content: 
       - layout: left
-        title: Terraform 
-        level: 70
+        title: Cloud providers
+        level: 40
         quote: >
-          Infrastructure as Code
+          GCP, Azure, AWS, DigitalOcean, IBM Cloud 
 
       - layout: left
-        title: Kubernetes 
+        title: Infrastructure as Code
         level: 70
         quote: >
-          Microservices / DevOps 
+          Terraform
+
+      - layout: left
+        title: Microservices  
+        level: 70
+        quote: >
+          Docker, Kubernetes, Nomad, Helm 
+
+      - layout: left
+        title: CI-CD
+        level: 40
+        quote: >
+          Jenkins, Spinnaker, Harness, Github actions, Git
 
 
 
@@ -118,6 +130,7 @@ content:
     content: |
       ## Recent badges:
       ![](https://miro.medium.com/max/800/1*Nm6MkL2zbk4IN-lfZT8A8A.png)
+      ![](https://intellectualpoint.com/wp-content/uploads/2019/04/AWS-Cloud-Practitioner.jpg)
       ![](https://portworx.com/wp-content/uploads/2020/03/portworx_training_pca.png)
 
 
@@ -148,7 +161,7 @@ content:
       - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
       Look at this cool image  
-      ![Duck](/images/duck.jpg "Duck")
+      ![Duck](/images/duck.jpeg "Duck")
 
 # Footer
 footer_show_references: true
