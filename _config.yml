@@ -136,16 +136,16 @@ content:
           Jenkins, Spinnaker, Harness, Github actions, Git
 
       - layout: left
-        title: Others
-        level: 40
-        quote: >
-          Rancher, CLM, Support, On-call, Teaching, KT, Scrum, Agile 
-
-      - layout: left
         title: Coding
         level: 40
         quote: >
           BashGo, Python, Go, Markdownd 
+
+      - layout: left
+        title: Others
+        level: 40
+        quote: >
+          Rancher, CLM, Support, On-call, Teaching, KT, Scrum, Agile           
 
 
 
@@ -186,6 +186,7 @@ content:
       - [Turn the world into a dancefloor](https://www.mixcloud.com/GeraX302/)
 
       Thanks for visiting !!! Here you have a friendly Duck. 
+      
       ![Duck](/images/duck.jpeg "Duck")
       
 
