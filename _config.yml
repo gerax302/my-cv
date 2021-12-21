@@ -67,17 +67,6 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: DigitalOnUs by Tech Mahindra
-        link: https://www.digitalonus.com/
-        # link_text: boringcompany.com
-        sub_title: SRE
-        caption: June 2019 - Present
-        quote: >
-          Implementing the latest cloud technologies for high availability in a reliable infrastructure. 
-        description: | # this will include new lines to allow paragraphs
-            Building a stable infrastructure / architecture for one of the biggest grocery stores in the US. Working with application owners in multi-tenant environments.  Most of the time working over storage technologies and backup strategies. 
-
-      - layout: left
         title: IBM
         link: ihttps://ibm.com
         sub_title: System Administrator (Support)
@@ -189,7 +178,7 @@ content:
       
       ![Duck](/images/duck.jpeg "Duck")
 
-      [Link to my carrer](studies-exp-pillar-bs5/index2.html)      
+      [Link to my carrer](professional/index.html)      
 
 # Footer
 footer_show_references: true
