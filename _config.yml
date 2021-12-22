@@ -91,9 +91,9 @@ content:
   #         I spent last year as tutor for new students in basic programming topics. 
 
 
-  - title: Skills # Title for the section
-    layout: list # Type of content section (list/text)
-    content: 
+  # - title: Skills # Title for the section
+  #   layout: list # Type of content section (list/text)
+  #   content: 
       # - layout: left
       #   title: Cloud providers
       #   level: 40
@@ -153,17 +153,16 @@ content:
   #         Skill languaje          
 
 
-  - title: A Little More About Me
+  - title: More about me...
     layout: text
     content: | # this will include new lines to allow paragraphs
       This is a sample page developed in my free time, just to take base of my laboral experience and additional details. 
-      Click [here](professional/index.html) and get my CV. 
-
-      Thanks for visiting !!! Here you have a friendly Duck. 
-      
-      ![Duck](/images/duck.jpeg "Duck")
-
+      - Click [here](professional/index.html) and get my CV. 
       - [Click here if you want to hear my EDM mixes](https://www.mixcloud.com/GeraX302/)
+
+      - Thanks for visiting !!! Here you have a friendly Duck. 
+      
+      - ![Duck](/images/duck.jpeg "Duck")      
 
 # Footer
 footer_show_references: true
