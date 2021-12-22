@@ -100,11 +100,11 @@ content:
       #   quote: >
       #     GCP, Azure, AWS, DigitalOcean, IBM Cloud 
 
-      - layout: left
-        title: Infrastructure as Code
-        level: 70
-        quote: >
-          Terraform
+      # - layout: left
+      #   title: Infrastructure as Code
+      #   level: 70
+      #   quote: >
+      #     Terraform
 
       # - layout: left
       #   title: Microservices  
@@ -112,29 +112,18 @@ content:
       #   quote: >
       #     Docker, Kubernetes, Nomad, Helm 
 
-      - layout: left
-        title: Storage
-        level: 40
-        quote: >
-          GCP Buckets, Portworx, Google Regional Persistent Disks 
+      # - layout: left
+      #   title: Storage
+      #   level: 40
+      #   quote: >
+      #     GCP Buckets, Portworx, Google Regional Persistent Disks 
 
-      - layout: left
-        title: CI-CD
-        level: 40
-        quote: >
-          Jenkins, Spinnaker, Harness, Github actions, Git
 
-      - layout: left
-        title: Coding
-        level: 40
-        quote: >
-          BashGo, Python, Go, Markdownd 
-
-      - layout: left
-        title: Others
-        level: 40
-        quote: >
-          Rancher, CLM, Support, On-call, Teaching, KT, Scrum, Agile           
+      # - layout: left
+      #   title: Others
+      #   level: 40
+      #   quote: >
+      #     Rancher, CLM, Support, On-call, Teaching, KT, Scrum, Agile          
 
 
 
@@ -166,14 +155,9 @@ content:
 
   - title: A Little More About Me
     layout: text
-    content: | 
-      # Alongside my interests in cloud and software engineering some of my other interests and hobbies are:
-      # - Music (DJing) 
-      # - Reading
-      # - Board games / Video games 
-      # - Mountain bikes / Cycling
+    content: | # this will include new lines to allow paragraphs
       This is a sample page developed in my free time, just to take base of my laboral experience and additional details. 
-      [Click here for my CV profile](professional/index.html) 
+      Click [here](professional/index.html) and get my CV. 
 
       Thanks for visiting !!! Here you have a friendly Duck. 
       
