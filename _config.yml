@@ -157,12 +157,12 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       This is a sample page developed in my free time, just to take base of my laboral experience and additional details. 
-      - Click [here](professional/index.html) and get my CV. 
-      - [Click here if you want to hear my EDM mixes](https://www.mixcloud.com/GeraX302/)
+      - Click [here](professional/index.html) and see my laboral experience (CV). 
+      - Click [here](https://www.mixcloud.com/GeraX302/) if you want to hear my EDM mixes
 
-      - Thanks for visiting !!! Here you have a friendly Duck. 
+      - ![Duck](/images/duck.jpeg "Duck")    
       
-      - ![Duck](/images/duck.jpeg "Duck")      
+      - Thanks for visiting !!! Here you have a friendly Duck.   
 
 # Footer
 footer_show_references: true
